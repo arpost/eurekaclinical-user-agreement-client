@@ -1,5 +1,7 @@
 # Eureka! Clinical User Agreement Client
-[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Andrew Post](http://www.andrewrpost.com), Salt Lake City, UT
+
+Derived from software previously developed by me and my team at the [Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 ## What does it do?
 It is a library for accessing an implementation of Eureka! Clinical's RESTful APIs for managing user agreements from Java applications. It provides two REST API clients:

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.eurekaclinical</groupId>
     <artifactId>eurekaclinical-user-agreement-client</artifactId>
     <version>2.3-Beta-2-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -12,25 +11,25 @@
     <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent-standard-deps</artifactId>
-        <version>3</version>
+        <version>4-Alpha-4-SNAPSHOT</version>
     </parent>
 
-    <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-client.git</url>
+    <url>https://github.com/arpost/eurekaclinical-user-agreement-client.git</url>
 
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-user-agreement-client.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-user-agreement-client.git</developerConnection>
-        <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-client.git</url>
+        <connection>scm:git:https://github.com/arpost/eurekaclinical-user-agreement-client.git</connection>
+        <developerConnection>scm:git:https://github.com/arpost/eurekaclinical-user-agreement-client.git</developerConnection>
+        <url>https://github.com/arpost/eurekaclinical-user-agreement-client.git</url>
         <tag>HEAD</tag>
     </scm>
 	
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-client/issues</url>
+        <url>https://github.com/arpost/eurekaclinical-user-agreement-client/issues</url>
     </issueManagement>
     
     <properties>
-        <eurekaclinical-common-version>[4.0,5.0)</eurekaclinical-common-version>
+        <eurekaclinical-common-version>[5.99,6.0)</eurekaclinical-common-version>
     </properties>
 	
     <build>
